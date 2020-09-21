@@ -1,6 +1,14 @@
 
 
 const searchbox = document.querySelector('.search-box');
-searchbox.addEventListener('keypress', setQuery);
+
+var location = {
+
+city: "Jerusalem", "Amman", "Cairo", "New york", "Baghdad", "kuwait", "Tokoy"
+}
 
 
+function date (){
+
+	
+}
